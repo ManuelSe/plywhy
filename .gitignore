@@ -1,0 +1,26 @@
+# Android, Gradle, IDE and local secrets
+.gradle/
+.idea/
+*.iml
+.DS_Store
+local.properties
+**/build/
+build/
+.cxx/
+.externalNativeBuild/
+captures/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.key
+*.p12
+*.pem
+.env
+.env.*
+!*.example
+secrets.properties
+*credentials*.json
+*.log
+
+PlyWhy-Codex-Starter.zip
